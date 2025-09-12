@@ -4,9 +4,9 @@
 
 # 🎓 CS-616: Optimization Algorithms
 
-**Prince Sattam bin Abdulaziz University**
-**College of Computer Engineering and Sciences**
-**Department of Computer Science**
+* **Prince Sattam bin Abdulaziz University**
+* **College of Computer Engineering and Sciences**
+* **Department of Computer Science**
 
 ---
 
@@ -32,9 +32,9 @@ This repository serves as a collection of solutions for examples and assignments
 
 The official textbook for this course is:
 
-**Title:** ["Metaheuristics: From Design to Implementation"](https://www.wiley.com/en-us/Metaheuristics%3A+From+Design+to+Implementation-p-9780470278581)
-**Author:** El-Ghazali Talbi
-**Year:** 2009
+* **Title:** ["Metaheuristics: From Design to Implementation"](https://www.wiley.com/en-us/Metaheuristics%3A+From+Design+to+Implementation-p-9780470278581)
+* **Author:** El-Ghazali Talbi
+* **Year:** 2009
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mohammed-Alanazii/CS616--Optimization-Algorithms/main/0470278587.jpg" alt="Book Cover" width="200">

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mohammed-Alanazii/CS616--Optimization-Algorithms/main/IMG-20230527-WA0002%20(1).jpg" alt="Prince Sattam bin Abdulaziz University Logo" width="250">
+  <img src="https://github.com/Mohammed-Alanazii/CS616--Optimization-Algorithms/blob/main/IMG-20230527-WA0002%20(1).jpg" alt="Prince Sattam bin Abdulaziz University Logo" width="250">
 </p>
 
 # Master's degree in Applied Artificial Intelligence 📚
@@ -38,7 +38,7 @@ The official textbook for this course is:
 * **Year:** 2009
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mohammed-Alanazii/CS616--Optimization-Algorithms/main/0470278587.jpg" alt="Book Cover" width="200">
+  <img src="https://github.com/Mohammed-Alanazii/CS616--Optimization-Algorithms/blob/main/0470278587.jpg" alt="Book Cover" width="200">
 </p>
 
 ---

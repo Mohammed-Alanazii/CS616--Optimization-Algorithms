@@ -2,10 +2,11 @@
   <img src="https://raw.githubusercontent.com/Mohammed-Alanazii/CS616--Optimization-Algorithms/main/IMG-20230527-WA0002%20(1).jpg" alt="Prince Sattam bin Abdulaziz University Logo" width="250">
 </p>
 
-# 🎓 CS-616: Optimization Algorithms
+# Master's degree in Applied Artificial Intelligence 📚
+#  CS-616: Optimization Algorithms 🧮
 
-* **Prince Sattam bin Abdulaziz University**
-* **College of Computer Engineering and Sciences**
+* **Prince Sattam bin Abdulaziz University** 🎓
+* **College of Computer Engineering and Sciences** 
 * **Department of Computer Science**
 
 ---
@@ -46,22 +47,22 @@ The official textbook for this course is:
 
 This repository is organized into folders, with each folder corresponding to a major topic or chapter covered in the course. Inside each chapter's folder, you will find the relevant code examples and assignment solutions.
 
-* **/Chapter-01\_Introduction-to-Optimization/**
+* **Chapter-01\_Introduction-to-Optimization/**
     * `assignment.md`
     * `code_examples/`
-* **/Chapter-02\_Main-Common-Concepts-for-Metaheuristics/**
+* **Chapter-02\_Main-Common-Concepts-for-Metaheuristics/**
     * `assignment.md`
     * `code_examples/`
-* **/Chapter-03\_Local-Search-Based-Algorithms/**
+* **Chapter-03\_Local-Search-Based-Algorithms/**
     * `assignment.md`
     * `code_examples/`
-* **/Chapter-04\_Tabu-Search/**
+* **Chapter-04\_Tabu-Search/**
     * `assignment.md`
     * `code_examples/`
-* **/Chapter-05\_Genetic-Algorithms/**
+* **Chapter-05\_Genetic-Algorithms/**
     * `assignment.md`
     * `code_examples/`
-* **/Chapter-06\_Swarm-Intelligence-Algorithms/**
+* **Chapter-06\_Swarm-Intelligence-Algorithms/**
     * `assignment.md`
     * `code_examples/`
 

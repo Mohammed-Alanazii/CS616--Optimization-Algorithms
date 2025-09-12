@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mohammed-Alanazii/CS616--Optimization-Algorithms/main/IMG-20230527-WA0002%20(1).jpg" alt="Prince Sattam bin Abdulaziz University Logo" width="150">
+  <img src="https://raw.githubusercontent.com/Mohammed-Alanazii/CS616--Optimization-Algorithms/main/IMG-20230527-WA0002%20(1).jpg" alt="Prince Sattam bin Abdulaziz University Logo" width="250">
 </p>
 
 # 🎓 CS-616: Optimization Algorithms

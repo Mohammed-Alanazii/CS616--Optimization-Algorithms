@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[URL_TO_YOUR_UNIVERSITY_LOGO.png](https://github.com/Mohammed-Alanazii/CS616--Optimization-Algorithms/blob/main/IMG-20230527-WA0002%20(1).jpg?raw=true)" alt="Prince Sattam bin Abdulaziz University Logo" width="150">
+  <img src="https://raw.githubusercontent.com/Mohammed-Alanazii/CS616--Optimization-Algorithms/main/IMG-20230527-WA0002%20(1).jpg" alt="Prince Sattam bin Abdulaziz University Logo" width="150">
 </p>
 
 # 🎓 CS-616: Optimization Algorithms
@@ -31,12 +31,13 @@ This repository serves as a collection of solutions for examples and assignments
 ## 📚 Course Textbook
 
 The official textbook for this course is:
+
 **Title:** ["Metaheuristics: From Design to Implementation"](https://www.wiley.com/en-us/Metaheuristics%3A+From+Design+to+Implementation-p-9780470278581)
 **Author:** El-Ghazali Talbi
 **Year:** 2009
 
 <p align="center">
-  <img src="https://github.com/Mohammed-Alanazii/CS616--Optimization-Algorithms/blob/main/0470278587.jpg?raw=true" alt="Book Cover" width="200">
+  <img src="https://raw.githubusercontent.com/Mohammed-Alanazii/CS616--Optimization-Algorithms/main/0470278587.jpg" alt="Book Cover" width="200">
 </p>
 
 ---
@@ -45,22 +46,22 @@ The official textbook for this course is:
 
 This repository is organized into folders, with each folder corresponding to a major topic or chapter covered in the course. Inside each chapter's folder, you will find the relevant code examples and assignment solutions.
 
-* **/Chapter-01_Introduction-to-Optimization/**
+* **/Chapter-01\_Introduction-to-Optimization/**
     * `assignment.md`
     * `code_examples/`
-* **/Chapter-02_Main-Common-Concepts-for-Metaheuristics/**
+* **/Chapter-02\_Main-Common-Concepts-for-Metaheuristics/**
     * `assignment.md`
     * `code_examples/`
-* **/Chapter-03_Local-Search-Based-Algorithms/**
+* **/Chapter-03\_Local-Search-Based-Algorithms/**
     * `assignment.md`
     * `code_examples/`
-* **/Chapter-04_Tabu-Search/**
+* **/Chapter-04\_Tabu-Search/**
     * `assignment.md`
     * `code_examples/`
-* **/Chapter-05_Genetic-Algorithms/**
+* **/Chapter-05\_Genetic-Algorithms/**
     * `assignment.md`
     * `code_examples/`
-* **/Chapter-06_Swarm-Intelligence-Algorithms/**
+* **/Chapter-06\_Swarm-Intelligence-Algorithms/**
     * `assignment.md`
     * `code_examples/`
 

@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://github.com/Mohammed-Alanazii/CS616--Optimization-Algorithms/blob/main/IMG-20230527-WA0002%20(1).jpg" alt="Prince Sattam bin Abdulaziz University Logo" width="250">
+  <img src="https://raw.githubusercontent.com/Mohammed-Alanazii/CS616--Optimization-Algorithms/main/Files/IMG-20230527-WA0002%20(1).jpg" alt="Prince Sattam bin Abdulaziz University Logo" width="250">
 </p>
 
-# Master's degree in Applied Artificial Intelligence 📚
-#  CS-616: Optimization Algorithms 🧮
+# Master's Degree in Applied Artificial Intelligence 📚
+# CS-616: Optimization Algorithms 🧮
 
 * **Prince Sattam bin Abdulaziz University** 🎓
-* **College of Computer Engineering and Sciences** 
+* **College of Computer Engineering and Sciences**
 * **Department of Computer Science**
 
 ---
@@ -25,7 +25,7 @@ This repository serves as a collection of solutions for examples and assignments
 
 * **Programming Language:** **Python** 🐍
 * **Editor & Environment:** **Visual Studio Code** 💻 + **Jupyter Notebook** 📓
-* **Optimizer / Solver:** **Gurobi Optimizer** ⚙️ (using the `gurobipy` library)
+* **Optimizer / Solver:** **Gurobi Optimizer** ⚙️ (using the `gurobipy` library)["Gurobi website"](https://www.gurobi.com/faqs/gurobipy/)
 
 ---
 
@@ -38,7 +38,7 @@ The official textbook for this course is:
 * **Year:** 2009
 
 <p align="center">
-  <img src="https://github.com/Mohammed-Alanazii/CS616--Optimization-Algorithms/blob/main/0470278587.jpg" alt="Book Cover" width="200">
+  <img src="https://raw.githubusercontent.com/Mohammed-Alanazii/CS616--Optimization-Algorithms/main/Files/0470278587.jpg" alt="Book Cover" width="200">
 </p>
 
 ---
@@ -47,24 +47,69 @@ The official textbook for this course is:
 
 This repository is organized into folders, with each folder corresponding to a major topic or chapter covered in the course. Inside each chapter's folder, you will find the relevant code examples and assignment solutions.
 
-* **Chapter-01\_Introduction-to-Optimization/**
-    * `assignment.md`
+* **Chapter-01_Introduction-to-Optimization/**
+    * `chapter_slides`
     * `code_examples/`
-* **Chapter-02\_Main-Common-Concepts-for-Metaheuristics/**
-    * `assignment.md`
+* **Chapter-02_Main-Common-Concepts-for-Metaheuristics/**
+    * `chapter_slides`
     * `code_examples/`
-* **Chapter-03\_Local-Search-Based-Algorithms/**
-    * `assignment.md`
+* **Chapter-03_Local-Search-Based-Algorithms/**
+    * `chapter_slides`
     * `code_examples/`
-* **Chapter-04\_Tabu-Search/**
-    * `assignment.md`
+* **Chapter-04_Tabu-Search/**
+    * `chapter_slides`
     * `code_examples/`
-* **Chapter-05\_Genetic-Algorithms/**
-    * `assignment.md`
+* **Chapter-05_Genetic-Algorithms/**
+    * `chapter_slides`
     * `code_examples/`
-* **Chapter-06\_Swarm-Intelligence-Algorithms/**
-    * `assignment.md`
+* **Chapter-06_Swarm-Intelligence-Algorithms/**
+    * `chapter_slides`
     * `code_examples/`
+
+---
+
+## 🧑‍🏫 Instructor & Contact
+
+* **Instructor:** Prof. Mahdi Khemakhem
+* **Office:** B#308, CCES Building, 2nd Floor
+* **Office Hours:** Tuesday, Wednesday & Thursday, 10:00–11:00 AM
+* **Contact:** m.khemakhem@psau.edu.sa (email)
+
+---
+
+## 🔑 Prerequisites
+
+* Successful completion of CS-602 – Design of Problem Solvers
+* Good understanding of data structures and algorithms
+* Prior programming experience (Python recommended)
+
+---
+
+## 🏅 Assessments & Grading
+
+| Assessment            | Period              | Weight |
+| --------------------- | ------------------- | ------ |
+| Assignments/Labs      | During the term     | 20%    |
+| Midterm Exam          | Week 10             | 20%    |
+| Term Project/Present. | Weeks 13–15         | 20%    |
+| Final Exam            | Finals Period       | 40%    |
+
+---
+
+## 🦾 Course Learning Outcomes
+
+1.  Describe key optimization concepts and algorithms.
+2.  Evaluate and select metaheuristics for different problem types.
+3.  Implement optimization algorithms in software applications.
+4.  Apply optimization techniques to AI-based problem-solving.
+
+---
+
+## ❓ Questions & Suggestions
+
+* For any further questions regarding the course slides or material, please contact the instructor, **Prof. Mahdi Khemakhem**.
+* For any issues, questions, or suggestions related to the code in this repository, feel free to contact me at **m.alenezi1994@gmail.com** or open an issue. Suggestions are welcomed!
+
 
 ---
 
@@ -73,4 +118,4 @@ This repository is organized into folders, with each folder corresponding to a m
 To get a local copy of this repository, you can clone it using Git:
 
 ```sh
-git clone [https://github.com/](https://github.com/)[your-username]/[your-repo-name].git
+git clone [https://github.com/Mohammed-Alanazii/CS616--Optimization-Algorithms.git](https://github.com/Mohammed-Alanazii/CS616--Optimization-Algorithms.git)

@@ -45,26 +45,24 @@ The official textbook for this course is:
 
 ## 🗂️ Repository Structure
 
-This repository is organized into folders, with each folder corresponding to a major topic or chapter covered in the course. Inside each chapter's folder, you will find the relevant code examples and assignment solutions.
+This repository is organized into folders, with each folder corresponding to a major topic or chapter covered in the course. Inside each chapter's folder, you will find the relevant slide, code examples and assignment solutions.
 
 * **Chapter-01_Introduction-to-Optimization/**
-    * `chapter_slides`
-    * `code_examples/`
+    * `[slides](https://github.com/Mohammed-Alanazii/CS616--Optimization-Algorithms/blob/da48d9f5b9473de2b8d941e5fad3c0f034c31767/CH01/AO_CS616_chapter_01.pdf)`
+    * `[computer network example](https://github.com/Mohammed-Alanazii/CS616--Optimization-Algorithms/blob/da48d9f5b9473de2b8d941e5fad3c0f034c31767/CH01/computer_network.ipynb)`
+    * `[mobile phone coverage example](https://github.com/Mohammed-Alanazii/CS616--Optimization-Algorithms/blob/da48d9f5b9473de2b8d941e5fad3c0f034c31767/CH01/mobile_phone_coverage.ipynb)`
 * **Chapter-02_Main-Common-Concepts-for-Metaheuristics/**
-    * `chapter_slides`
-    * `code_examples/`
-* **Chapter-03_Local-Search-Based-Algorithms/**
-    * `chapter_slides`
-    * `code_examples/`
-* **Chapter-04_Tabu-Search/**
-    * `chapter_slides`
-    * `code_examples/`
+    * `[slides](https://github.com/Mohammed-Alanazii/CS616--Optimization-Algorithms/blob/db5e92e497750aebdc5533efc34e0d053f7b8d05/CH02/AO_CS616_chapter_02.pdf)`
+    * `code_examples`
+* **Chapter-03_Local-Search-Algorithms/**
+    * `[slides](https://github.com/Mohammed-Alanazii/CS616--Optimization-Algorithms/blob/db5e92e497750aebdc5533efc34e0d053f7b8d05/CH03/AO_CS616_chapter_03.pdf)`
+    * `code_examples`
+* **Chapter-04_Tabu-Search-Algorithms/**
+    * `[slides](https://github.com/Mohammed-Alanazii/CS616--Optimization-Algorithms/blob/db5e92e497750aebdc5533efc34e0d053f7b8d05/CH04/AO_CS616_chapter_04.pdf)`
+    * `code_examples`
 * **Chapter-05_Genetic-Algorithms/**
-    * `chapter_slides`
-    * `code_examples/`
-* **Chapter-06_Swarm-Intelligence-Algorithms/**
-    * `chapter_slides`
-    * `code_examples/`
+    * `[slides](https://github.com/Mohammed-Alanazii/CS616--Optimization-Algorithms/blob/db5e92e497750aebdc5533efc34e0d053f7b8d05/CH04/AO_CS616_chapter_05.pdf)`
+    * `code_examples`
 
 ---
 
@@ -102,6 +100,12 @@ This repository is organized into folders, with each folder corresponding to a m
 2.  Evaluate and select metaheuristics for different problem types.
 3.  Implement optimization algorithms in software applications.
 4.  Apply optimization techniques to AI-based problem-solving.
+
+---
+
+## ✍️ Author
+
+This repository was designed and coded by **[Mohammed Alanazi](https://github.com/Mohammed-Alanazii)**.
 
 ---
 

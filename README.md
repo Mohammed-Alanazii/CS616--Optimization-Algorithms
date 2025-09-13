@@ -13,7 +13,7 @@
 
 ## 📖 About This Course
 
-> This course provides an in-depth exploration of optimization algorithms and their role in artificial intelligence 🧠. It covers both single-solution-based and population-based metaheuristic techniques, including local search, tabu search, genetic algorithms, and swarm intelligence. Students will learn how to analyze, evaluate, and implement these techniques to solve complex optimization problems in various AI-driven applications. By the end of the course, students will be equipped with the necessary skills to select appropriate optimization methods, develop AI-based applications, and enhance computational efficiency in real-world scenarios.
+This course provides an in-depth exploration of optimization algorithms and their role in artificial intelligence. It covers both single-solution-based and population-based metaheuristic techniques, including local search, tabu search, genetic algorithms, and swarm intelligence. Students will learn how to analyze, evaluate, and implement these techniques to solve complex optimization problems in various AI-driven applications. By the end of the course, students will be equipped with the necessary skills to select appropriate optimization methods, develop AI-based applications, and enhance computational efficiency in real-world scenarios.
 
 ### 🎯 Repository Purpose
 

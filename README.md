@@ -68,7 +68,7 @@ This repository is organized into folders, with each folder corresponding to a m
     * [slides](https://github.com/Mohammed-Alanazii/CS616--Optimization-Algorithms/blob/main/CH05/AO_CS616_chapter_05.pdf)
     * `code_examples`
 * **Assignments/**
-    * [Assignment 1]()
+    * [Assignment 1](https://github.com/Mohammed-Alanazii/CS616--Optimization-Algorithms/tree/main/Assignments/Assignmnet1)
 
 
 ---
